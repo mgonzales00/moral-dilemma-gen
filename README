@@ -1,0 +1,4 @@
+set environment
+
+    MODEL=deepseek-v4.1-flash
+    MODEL_ACCESS_KEY=doo_v1_something_something
